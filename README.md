@@ -10,5 +10,5 @@ This project examines whether South Koreans’ attitudes toward immigrant admiss
 Sentiment scores are nearly identical across subgroups and are mostly neutral. The topic modelling reveals that respondents rely on a shared set of recurring themes, rather than subgroup‑specific vocabularies.
 
 **Instructions to reproduce**  
-To reproduce the analysis, load the Immigrant Interviews Survey dataset in Orange Data Mining,use the data and scripts and follow the ODM pipeline provided in this repository. 
+To reproduce the analysis, load the Immigrant Interviews Survey dataset in Orange Data Mining, use the data and scripts and follow the ODM pipeline, all provided in this repository. 
 
